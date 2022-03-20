@@ -16,3 +16,14 @@ My strenghts
 * Module Bundlers: Gulp
 * Version control: Git (remote service GitHub)
 * C# (basic knowledge), Python(basic knowledge)
+# Code Example
+```JavaScript
+function banana(fruit) {
+    return fruit == "Банан" ? "Это банан :)" : "Это не банан :("
+}
+```
+# Education
+I learned HTML, CSS (SASS/CSS), JavaScript and other things during college
+# Languages
+* Russian (native) 
+* English (idk, i just learn it by myself)
