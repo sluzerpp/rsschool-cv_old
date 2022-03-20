@@ -1,1 +1,1 @@
-# https://sluzerpp.github.io/rsschool-cv/cv
+# https://sluzerpp.github.io/rsschool-cv/
