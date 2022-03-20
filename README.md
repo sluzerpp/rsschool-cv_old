@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://sluzerpp.github.io/rsschool-cv/cv
